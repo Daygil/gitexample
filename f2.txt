@@ -1,6 +1,3 @@
 new souce : 1
 new souce : 2
-<<<<<<< HEAD
-=======
 new souce : 3
->>>>>>> exp
